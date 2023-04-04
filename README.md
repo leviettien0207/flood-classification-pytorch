@@ -6,5 +6,5 @@ This is just my small project to get used to pytorch. I have searched many blogs
 The steps are:
 - Customize and prepare dataset to PyTorch-able dataset
 - Tuning (I prefer to call play around literally) Bert pretrained text model
-- Tuning (I prefer to call play around literally) wide resnet pretrained image model
+- Tuning (I prefer to call play around literally) wide resnet pretrained image model - I lost this part :D
 - Combine those two above models and tuning
